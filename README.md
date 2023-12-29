@@ -1,4 +1,4 @@
-# -Dog-vs.-Cat-Image-Classifier-
+# Dog-vs.-Cat-Image-Classifier
 
 + Implemented a basic CNN model to classify between a dog and a cat using Deep Learning.
 
